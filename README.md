@@ -1,6 +1,8 @@
 # MAC Address Changer
 
-![MAC Address](https://www.kali.org/tools/macchanger/images/macchanger-logo.svg)
+<p align="center">
+  <img src="https://www.kali.org/tools/macchanger/images/macchanger-logo.svg" alt="MACChanger Logo" width="600" height="600">
+</p
 
 ## Introduction
 
